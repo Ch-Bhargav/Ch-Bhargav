@@ -20,8 +20,8 @@ If you're equally passionate about protecting the digital frontier, embracing cr
 
 ### Get in Touch 📬
 
-📫 You can reach me at: [your.email@example.com](mailto:your.email@example.com)
-🌐 Let's connect on: [LinkedIn](https://www.linkedin.com/in/yourusername)
+📫 You can reach me at: [chiramdasubhargav16@gmail.com.com](mailto:chiramdasubhargav16@gmail.com)
+🌐 Let's connect on: [LinkedIn](https://www.linkedin.com/in/bhargav-chiramdasu/)
 
 ### Remember, Code and Creativity Know No Bounds! 🚀🌌
 
