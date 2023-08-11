@@ -1,6 +1,6 @@
 ## Greetings, Fellow Explorer of the Digital Frontier! 🌐
 
-Ahoy! I'm [Your Name], a cybersecurity enthusiast, creative writer, and coding conjurer. 🖋️🔒
+Ahoy! I'm Bhargav Ch, a cybersecurity enthusiast, creative writer, and coding conjurer. 🖋️🔒
 
 ### Merging Security and Creativity 🔐🎨
 
