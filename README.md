@@ -18,6 +18,14 @@ Every line of code is a stroke of brilliance, every project a masterpiece in the
 
 If you're equally passionate about protecting the digital frontier, embracing creativity in code, and embarking on riveting coding expeditions, let's join forces. Together, we can push the boundaries of what's possible, weaving tales of innovation and security that resonate across the digital tapestry.
 
+
+### My Toolbox 🧰
+
+![C++](https://img.shields.io/badge/C++-17.4%25-blue)
+![Python](https://img.shields.io/badge/Python-22.1%25-yellow)
+![Java](https://img.shields.io/badge/Java-10.5%25-orange)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-100%25-green)
+
 ### Get in Touch 📬
 
 📫 You can reach me at: [chiramdasubhargav16@gmail.com](mailto:chiramdasubhargav16@gmail.com)
