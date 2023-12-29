@@ -21,7 +21,7 @@ If you're equally passionate about protecting the digital frontier, embracing cr
 
 ### My Toolbox 🧰
 
-![C++](https://img.shields.io/badge/C++-17.4%25-blue)
+![C++](https://img.shields.io/badge/C++-57.4%25-blue)
 ![Python](https://img.shields.io/badge/Python-22.1%25-yellow)
 ![Java](https://img.shields.io/badge/Java-10.5%25-orange)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-100%25-green)
