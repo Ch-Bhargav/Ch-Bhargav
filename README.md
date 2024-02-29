@@ -25,6 +25,7 @@ If you're equally passionate about protecting the digital frontier, embracing cr
 ![Python](https://img.shields.io/badge/Python-22.1%25-yellow)
 ![Java](https://img.shields.io/badge/Java-10.5%25-orange)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-100%25-green)
+![Rust](https://img.shields.io/badge/Rust-40%25-brown)
 
 ### Get in Touch 📬
 
