@@ -13,9 +13,13 @@
 
 - 📫 How to reach me **chiramdasubhargav16@gmail.com**
 
+- ⚡ Fun fact **I Think I am a UnidentfiedLifeForm**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/bhargav-chiramdasu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bhargav-chiramdasu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bhargav-chiramdasu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhargav-chiramdasu/" height="30" width="40" /></a>
+<a href="https://instagram.com/teddy_lennon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teddy_lennon" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/kl_cseh_30053" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/kl_cseh_30053" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kl_cseh_30053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kl_cseh_30053" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/klu_2100030053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/klu_2100030053" height="30" width="40" /></a>
