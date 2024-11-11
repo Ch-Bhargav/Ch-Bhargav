@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Cyber-Security and Networking**
 
-- 📫 How to reach me **chiramdasubhargav16@gmail.com**
+- 📫 How to reach me **bhargavchiramdasu@gmail.com**
 
 - ⚡ Fun fact **I Think I am a UnidentfiedLifeForm**
 
