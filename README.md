@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/github/followers/ch-bhargav?label=Followers&style=social" alt="followers" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ch-bhargav&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ch-bhargav)
-
 </div>
 
 ---
@@ -94,9 +92,6 @@ class Bhargav:
   
 ### 💭 Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🐍 Contribution Snake
-![snake gif](https://github.com/ch-bhargav/ch-bhargav/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
